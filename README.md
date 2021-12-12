@@ -31,7 +31,10 @@ php artisan module:enable Openfoodfactssearchproducts
 ```
 
 Module page:
+```sh
 https://[your host name]/openfoodfactssearchproducts
+```
+
 ## License
 
 MIT
