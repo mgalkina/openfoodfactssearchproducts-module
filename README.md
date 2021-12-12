@@ -1,0 +1,1 @@
+# openfoodfactssearchproducts-module
