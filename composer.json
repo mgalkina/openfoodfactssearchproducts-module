@@ -1,5 +1,5 @@
 {
-    "name": "mgalkina/openfoodfactssearchproducts",
+    "name": "mgalkina/openfoodfactssearchproducts-module",
     "description": "Openfoodfacts: Search Products",
     "type": "laravel-module",
     "authors": [
