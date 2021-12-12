@@ -35,6 +35,23 @@ Module page:
 https://[your host name]/openfoodfactssearchproducts
 ```
 
+## Tests
+
+Add to phpunit.xml:
+```sh
+<testsuite name="Feature">
+    <directory suffix="Test.php">./Modules/**/Tests/Feature</directory>
+</testsuite>
+
+<testsuite name="Unit">
+    <directory suffix="Test.php">./Modules/**/Tests/Unit</directory>
+</testsuite>
+```
+Run tests:
+```sh
+php artisan test
+```
+
 ## License
 
 MIT
