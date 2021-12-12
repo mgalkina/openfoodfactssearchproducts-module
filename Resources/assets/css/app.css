@@ -1,0 +1,32 @@
+.openfoodfactssearchproducts-card {
+    height: 448px;
+    max-width: inherit;
+}
+
+.openfoodfactssearchproducts-card-img {
+    overflow: hidden;
+    padding: 16px 16px 16px 16px;
+    max-width: inherit;
+}
+
+.openfoodfactssearchproducts-img {
+    width: auto; height: 209px;
+    max-width: inherit;
+}
+
+.openfoodfactssearchproducts-card-title {
+    min-height: 48px
+}
+
+.openfoodfactssearchproducts-card-text {
+    min-height: 72px
+}
+
+.openfoodfactssearchproducts-card-body-no-products {
+    text-align: center;
+}
+
+.openfoodfactssearchproducts-pagination nav ul{
+    justify-content: center;
+    flex-wrap: wrap;
+}

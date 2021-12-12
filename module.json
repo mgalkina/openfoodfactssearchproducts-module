@@ -1,0 +1,13 @@
+{
+    "name": "OpenfoodfactsSearchProducts",
+    "alias": "openfoodfactssearchproducts",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\OpenfoodfactsSearchProducts\\Providers\\OpenfoodfactsSearchProductsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

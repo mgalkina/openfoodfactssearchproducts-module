@@ -1,0 +1,16 @@
+{
+    "name": "mgalkina/openfoodfactssearchproducts",
+    "description": "Openfoodfacts: Search Products",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Maria Galkina",
+            "email": "galkinamaria92@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\OpenfoodfactsSearchProducts\\": ""
+        }
+    }
+}
