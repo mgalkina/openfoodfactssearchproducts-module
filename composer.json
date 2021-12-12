@@ -12,5 +12,8 @@
         "psr-4": {
             "Modules\\OpenfoodfactsSearchProducts\\": ""
         }
+    },
+    "require": {
+        "php": ">=8.0"
     }
 }
